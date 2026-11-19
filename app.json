@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "StudentDirectory",
+    "slug": "studentdirectory",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
